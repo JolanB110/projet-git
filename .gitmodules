@@ -1,0 +1,3 @@
+[submodule "external/autoCV"]
+	path = external/autoCV
+	url = https://github.com/jitinnair1/autoCV
